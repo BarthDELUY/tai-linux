@@ -41,6 +41,8 @@ sudo groupadd www-data
 sudo groupadd applis
 sudo useradd -m -d /home/system/webapp -g www-data -G applis -N -s /bin/false webapp
 ```
+* changer son mot de passe ? `passwd`
+
 
 
 
